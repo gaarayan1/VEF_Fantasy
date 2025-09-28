@@ -1,7 +1,7 @@
 async function loadPage(page) {
   const app = document.getElementById('app');
   if (page === 'home') {
-    app.innerHTML = '<h2>Bienvenue sur le VEF Wiki</h2><p>Retrouvez ici les équipes, tournois et palmarès.</p>';
+    app.innerHTML = '<h2>Bienvenue sur le Wiki des Valorant Europe Federation</h2><p>Retrouvez ici les 12 équipes, différents splits et palmarès.</p>';
   } else if (page === 'teams') {
     const res = await fetch('data/teams.json');
     const teams = await res.json();
