@@ -1,12 +1,12 @@
 body {
   background: #FFFFF;
-  color: #f1f5f9;
+  color: #55555;
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
 header {
-  background: #1e293b;
+  background: #00000;
   padding: 1rem;
 }
 nav a {
