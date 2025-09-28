@@ -1,0 +1,14 @@
+[
+  {
+    "id": "NUX",
+    "name": "NUXERIA",
+    "country": "Royaume-Uni",
+    "partner": true
+  },
+  {
+    "id": "SVR",
+    "name": "SEVRAN",
+    "country": "France",
+    "partner": true
+  }
+]
