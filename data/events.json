@@ -3,28 +3,20 @@
     "id": "GF2025",
     "name": "VEF Grand Finals 2025",
     "city": "Paris",
-    "details": {
-      "date": "2025-09-21",
-      "venue": "Accor Arena",
-      "prizePool": "200 000€",
-      "winner": "Nuxeria",
-      "runnerUp": "Team Flawless",
-      "format": "Double élimination, BO3 (finale BO5)",
-      "description": "La grande finale VEF 2025 à Paris..."
-    }
+    "date": "21 septembre 2025",
+    "winner": "Nuxeria",
+    "runnerUp": "Team Flawless",
+    "prizePool": "200 000€",
+    "description": "La grande finale VEF 2025 s’est jouée à Paris avec une ambiance incroyable."
   },
   {
     "id": "GF2024",
     "name": "VEF Grand Finals 2024",
     "city": "Berlin",
-    "details": {
-      "date": "2024-09-17",
-      "venue": "Mercedes-Benz Arena",
-      "prizePool": "150 000€",
-      "winner": "Ventu Corp",
-      "runnerUp": "2GOOFY2GANG",
-      "format": "Double élimination",
-      "description": "Retour sur l’édition 2024..."
-    }
+    "date": "17 septembre 2024",
+    "winner": "Ventu Corp",
+    "runnerUp": "2GOOFY2GANG",
+    "prizePool": "150 000€",
+    "description": "Retour sur l’édition 2024 qui a marqué l’histoire à Berlin."
   }
 ]
